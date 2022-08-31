@@ -1,0 +1,144 @@
+{
+  "blinn": 0,
+  "canBreak": true,
+  "hdr": 0,
+  "hideCloud": true,
+  "scene": [
+    {
+      "class": "Entity",
+      "config": "myplugin/4a7fb7da-0a5f-4538-9db8-6282240943dc",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "id": "8782683631646752769",
+        "name": "enemy",
+        "needSync": "true",
+        "position": "x:-21.097970962524 y:1.0 z:16.555047988892",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
+    },
+    {
+      "class": "Entity",
+      "config": "myplugin/4a7fb7da-0a5f-4538-9db8-6282240943dc",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "id": "8782683634822316033",
+        "name": "enemy",
+        "needSync": "true",
+        "position": "x:-21.097970962524 y:1.0 z:16.555047988892",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
+    },
+    {
+      "class": "Entity",
+      "config": "myplugin/player1",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "id": "8782689473017315329",
+        "name": "player1",
+        "needSync": "true",
+        "position": "x:7.0132513046265 y:1.0002819299698 z:2.4704887866974",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
+    },
+    {
+      "class": "Entity",
+      "config": "myplugin/player1",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "id": "8782689562346815489",
+        "name": "player1",
+        "needSync": "true",
+        "position": "x:7.3543391227722 y:1.0000003576279 z:-11.156123161316",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
+    },
+    {
+      "class": "Entity",
+      "config": "myplugin/player1",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "id": "8782690580480671745",
+        "name": "player1",
+        "needSync": "true",
+        "position": "x:6.7662048339844 y:1.0000001192093 z:16.560781478882",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
+    },
+    {
+      "class": "Entity",
+      "config": "myplugin/4a7fb7da-0a5f-4538-9db8-6282240943dc",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "id": "8782691169227554817",
+        "name": "enemy",
+        "needSync": "true",
+        "position": "x:-21.778690338135 y:1.0057157278061 z:2.5547878742218",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
+    },
+    {
+      "class": "Entity",
+      "config": "myplugin/4a7fb7da-0a5f-4538-9db8-6282240943dc",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "id": "8782693824955138049",
+        "name": "enemy",
+        "needSync": "true",
+        "position": "x:-22.093189239502 y:1.0056873559952 z:-12.584874153137",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
+    }
+  ],
+  "skyBox": [
+    {
+      "texture": [
+        "@asset/Texture/SkyBox/Common2/Sky03_right.png",
+        "@asset/Texture/SkyBox/Common2/Sky03_left.png",
+        "@asset/Texture/SkyBox/Common2/Sky03_top.png",
+        "@asset/Texture/SkyBox/Common2/Sky03_bottom.png",
+        "@asset/Texture/SkyBox/Common2/Sky03_back.png",
+        "@asset/Texture/SkyBox/Common2/Sky03_front.png"
+      ]
+    }
+  ],
+  "skyBoxMode": "static_display",
+  "skyBoxRotate": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "skyBoxTexPixFmt": "RGBA8",
+  "skyBoxTexSize": 512,
+  "touchPosY": {
+    "touchdownPosY": -30.0,
+    "touchupPosY": 600
+  }
+}
